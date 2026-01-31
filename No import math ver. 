@@ -1,3 +1,0 @@
-print("Pythagorean_theorem")​
-a = int(input("What the range of a?: ")​)​
-b = int(input("What the range of b?: "))​
